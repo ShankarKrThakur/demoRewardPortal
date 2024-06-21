@@ -1,4 +1,4 @@
-Overview
+Overview ->
 The React application calculates and display reward points for customer based on their purchase transactions. The points are rewarded as follows:
 1.	2 points for every dollar spent over $100 in each transaction.
 2.	1 points for every dollar spent over $50 in each transaction.
