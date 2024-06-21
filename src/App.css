@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+  padding: 20px;
+  background-color: rgb(166, 213, 218);
+  
+}
+
+
+.customer-rewards {
+  border: 1px solid black;
+  padding: 20px;
+  margin: 20px 0;
+  border-radius: 5px;
+   
+}
+
+.customer-rewards h2 {
+  padding: 0 0 10px;
+  margin: 0;
+}
+
+.customer-rewards ul {
+  padding: 0 ;
+  list-style: none;
+}
+
+.customer-rewards ul li {
+  margin: 5px 0;
+}
